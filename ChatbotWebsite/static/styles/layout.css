@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #aaeeff;
+  border-radius: 0.375rem;
+}
+.navbar .navbar-nav .sos:hover {
+  background-color: #ffaaaa;
+  border-radius: 0.375rem;
+}
+
