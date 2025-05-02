@@ -72,7 +72,7 @@ To run this project locally, follow these steps:
 4. Run the application:
 
     ```bash
-    python app.py
+    python run.py
     ```
 
 ---
